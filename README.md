@@ -3,4 +3,4 @@ Detects unusual motion in your CCTV feed and remotely uploads them to your dropb
 
 #Authors
 KRISHANU KASHYAP <riankashyap@gmail.com>
-VIKASH KUMAR <vik.cyber003@gmail.com>
+VIKAS KUMAR <vik.cyber003@gmail.com>
